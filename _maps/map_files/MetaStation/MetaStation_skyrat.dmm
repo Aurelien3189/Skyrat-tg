@@ -719,7 +719,7 @@
 /obj/machinery/airalarm{
 	pixel_y = 23
 	},
-/turf/open/floor/iron,
+/turf/open/floor/iron/dark,
 /area/security/prison)
 "acH" = (
 /obj/effect/decal/cleanable/dirt,
@@ -914,7 +914,7 @@
 /obj/structure/disposalpipe/segment{
 	dir = 4
 	},
-/turf/open/floor/iron,
+/turf/open/floor/iron/dark,
 /area/security/prison)
 "adv" = (
 /obj/machinery/atmospherics/pipe/smart/manifold4w/scrubbers/hidden/layer2,
@@ -39530,7 +39530,7 @@
 /turf/open/floor/iron/dark/purple/side{
 	dir = 1
 	},
-/area/security/prison)
+/area/security/prison/safe)
 "hlN" = (
 /obj/structure/table/reinforced,
 /obj/effect/turf_decal/bot,
@@ -54434,7 +54434,7 @@
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 8
 	},
-/turf/open/floor/iron,
+/turf/open/floor/iron/dark,
 /area/security/prison)
 "nla" = (
 /obj/structure/disposalpipe/segment{
@@ -55276,7 +55276,7 @@
 /turf/open/floor/iron/dark/purple/side{
 	dir = 9
 	},
-/area/security/prison)
+/area/security/prison/safe)
 "nGI" = (
 /obj/structure/disposalpipe/segment{
 	dir = 4
@@ -81983,7 +81983,7 @@
 /turf/open/floor/iron/dark/purple/side{
 	dir = 5
 	},
-/area/security/prison)
+/area/security/prison/safe)
 "xRx" = (
 /obj/machinery/ai_slipper{
 	uses = 10
@@ -104560,7 +104560,7 @@ xoR
 pgq
 xoR
 nHF
-uYG
+xoR
 kDQ
 ejE
 adS
@@ -104814,8 +104814,8 @@ abe
 xKy
 asO
 xKy
-abe
-abe
+agH
+agH
 agH
 jAY
 agH
@@ -105071,7 +105071,7 @@ abe
 jTA
 tih
 piK
-abe
+agH
 nGH
 mGL
 ibL
@@ -105328,7 +105328,7 @@ abe
 jbB
 rEp
 jbB
-abe
+agH
 hlB
 jaM
 jib
@@ -105585,7 +105585,7 @@ abe
 yeu
 gOr
 oGS
-abe
+agH
 xRq
 lIn
 abD
